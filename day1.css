@@ -1,0 +1,27 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#hellol{
+    border-image-width: 0ch;
+}
+
+body{
+    background-color: rgb(104, 121, 115);
+}
+#bee{
+    color: yellow;
+}
+
+h2{
+    text-align: center;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
